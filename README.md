@@ -21,11 +21,14 @@ Reivew Risk Assessment and bullet points under the additonal comments section: <
 <img width="465" alt="audit 4" src="https://github.com/user-attachments/assets/1b49f46f-fde8-49fc-83ea-404a4732b363">
 <br />
 <br />
+Review the controls:  <br/>
+<img width="597" alt="Screenshot 2024-08-31 at 5 37 50 PM" src="https://github.com/user-attachments/assets/ac238773-4500-47b7-9a93-85ef95b04330">
+<img width="570" alt="Screenshot 2024-08-31 at 5 38 11 PM" src="https://github.com/user-attachments/assets/0279ec70-78c8-45d4-8a48-6b938b25ea17">
+<img width="538" alt="Screenshot 2024-08-31 at 5 39 45 PM" src="https://github.com/user-attachments/assets/8c3b37ea-d68e-494e-b043-a39846e10084">
+<img width="509" alt="Screenshot 2024-08-31 at 5 39 59 PM" src="https://github.com/user-attachments/assets/704df455-db15-465b-8e4e-76a9f088e81f">
+<br />
+<br />
 After reviewing the information above, answer the questions in the controls and compliance checklist by selceting "yes" or "no":  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
