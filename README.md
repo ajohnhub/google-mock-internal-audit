@@ -28,8 +28,10 @@ Review the controls:  <br/>
 <img width="509" alt="Screenshot 2024-08-31 at 5 39 59 PM" src="https://github.com/user-attachments/assets/704df455-db15-465b-8e4e-76a9f088e81f">
 <br />
 <br />
-After reviewing the information above, answer the questions in the controls and compliance checklist by selceting "yes" or "no":  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After reviewing the information above, answer the questions in the controls and compliance checklist by selecting "yes" or "no":  <br/>
+<img width="478" alt="Screenshot 2024-08-31 at 6 59 58 PM" src="https://github.com/user-attachments/assets/5aaeea21-65aa-44f8-aeee-9f9888f52070">
+<img width="479" alt="Screenshot 2024-08-31 at 7 00 07 PM" src="https://github.com/user-attachments/assets/48484d38-73a7-4c5d-8ffc-4ec04daed879">
+<img width="498" alt="Screenshot 2024-08-31 at 7 00 22 PM" src="https://github.com/user-attachments/assets/dabdfcfe-bbf5-4aa3-b20e-2ab18da4c538">
 <br />
 <br />
 Sanitization complete:  <br/>
