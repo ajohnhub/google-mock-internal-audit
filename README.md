@@ -17,7 +17,7 @@ Review Scope, Goals, And Current assests:  <br/>
 <br />
 <br />
 Reivew Risk Assessment and bullet points under the additonal comments section: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="488" alt="audit 3" src="https://github.com/user-attachments/assets/21a29604-d543-4d17-b904-c3c7351516d3">
 <img width="465" alt="audit 4" src="https://github.com/user-attachments/assets/1b49f46f-fde8-49fc-83ea-404a4732b363">
 <br />
 <br />
