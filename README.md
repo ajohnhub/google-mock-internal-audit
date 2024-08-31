@@ -21,7 +21,7 @@ Reivew Risk Assessment and bullet points under the additonal comments section: <
 <img width="465" alt="audit 4" src="https://github.com/user-attachments/assets/1b49f46f-fde8-49fc-83ea-404a4732b363">
 <br />
 <br />
-Confirm your selection:  <br/>
+After reviewing the information above, answer the questions in the controls and compliance checklist by selceting "yes" or "no":  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
