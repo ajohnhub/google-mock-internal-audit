@@ -34,12 +34,9 @@ After reviewing the information above, answer the questions in the controls and 
 <img width="498" alt="Screenshot 2024-08-31 at 7 00 22 PM" src="https://github.com/user-attachments/assets/dabdfcfe-bbf5-4aa3-b20e-2ab18da4c538">
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Communicate your results and recommendations to stakeholders using a memorandom:  <br/>
+<img width="472" alt="memorandum 1" src="https://github.com/user-attachments/assets/a4ffbd2a-17da-4423-9555-d7aa56af0228">
+<img width="486" alt="memorandum 2" src="https://github.com/user-attachments/assets/9a7c5335-d5cc-46e3-9aa3-a58841767a53">
 </p>
 
 <!--
