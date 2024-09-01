@@ -1,7 +1,7 @@
 <h1>Botium Toys Mock Internal Security Audit</h1>
 
 <h2>Description</h2>
-This project is a mock internal audit for a fictional company, Botium Toys, designed to evaluate and improve its internal controls, risk management, and governance processes. The audit covers various aspects of the company's operations, including financial reporting, compliance, and operational efficiency. This repository includes sample documents, audit programs, workpapers, and findings to provide a comprehensive overview of an internal audit process.
+This project is a mock internal security audit for Botium Toys, a fictional toy company. The purpose of this audit is to evaluate the company's current security posture, identify potential vulnerabilities, and ensure compliance with various security standards, including GDPR, PCI DSS, and SOC guidelines. The audit covers various aspects of the company's operations, including data protection, payment security, user access controls, and physical security measures.
 <br />
 
 
